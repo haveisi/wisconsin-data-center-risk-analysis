@@ -19,7 +19,7 @@ This project presents a GIS-based spatial analysis of risks associated with data
 ## Maps
 
 ### Climate Hazard Risk
-[Climate Hazard Risk](maps/Climate%20Hazard%20Risk.pdf)
+📄 [View Map](maps/Climate%20Hazard%20Risk.pdf)
 
 ### Flood Risk
 📄 [View Map](maps/Flood%20Risk.pdf)
@@ -28,17 +28,16 @@ This project presents a GIS-based spatial analysis of risks associated with data
 📄 [View Map](maps/Infrastructure%20Risks.pdf)
 
 ### Operational Class
-📄 [View Map](maps/Operational Class.pdf)
+📄 [View Map](maps/Operational%20Class.pdf)
 
 ### Social Risk
-[Social Risk](maps/social_risk.pdf)
+📄 [View Map](maps/Social%20Risk.pdf)
 
 ### Water Stress
 📄 [View Map](maps/Water%20Stress.pdf)
 
-### Composite Risk (All Combined)
-📄 [View Map](maps/Total Composite Risk Index.pdf)
-
+### Composite Risk
+📄 [View Map](maps/Total%20Composite%20Risk%20Index.pdf)
 ## Maps
 
 Maps are available in the `/maps/` folder.
