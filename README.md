@@ -31,7 +31,7 @@ This project presents a GIS-based spatial analysis of risks associated with data
 📄 [View Map](maps/Operational Class.pdf)
 
 ### Social Risk
-Social Risk.pdf
+[Social Risk](maps/social_risk.pdf)
 
 ### Water Stress
 📄 [View Map](maps/Water%20Stress.pdf)
