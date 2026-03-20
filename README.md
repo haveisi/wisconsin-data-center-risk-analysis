@@ -50,6 +50,7 @@ Community conflict and governance pressure.
 
 Combined multi-risk index identifying high-risk areas.
 
+![Composite Risk Map](maps/composite_risk/composite_risk_map.pdf) 
 ......................................................................................................................................................................................................................
 
 
