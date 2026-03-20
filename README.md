@@ -22,7 +22,7 @@ This project presents a GIS-based spatial analysis of risks associated with data
 [Climate Hazard Risk](maps/Climate%20Hazard%20Risk.pdf)
 
 ### Flood Risk
-📄 [View Map](maps/Flood Risk.pdf)
+📄 [View Map](maps/Flood%20Risk.pdf)
 
 ### Infrastructure Risk
 📄 [View Map](maps/Infrastructure Risks.pdf)
