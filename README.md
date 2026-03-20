@@ -34,7 +34,7 @@ This project presents a GIS-based spatial analysis of risks associated with data
 📄 [View Map](maps/Social Risk.pdf)
 
 ### Water Stress
-📄 [View Map](maps/Water Stress.pdf)
+📄 [View Map](maps/Water%20Stress.pdf)
 
 ### Composite Risk (All Combined)
 📄 [View Map](maps/Total Composite Risk Index.pdf)
