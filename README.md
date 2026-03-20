@@ -16,43 +16,28 @@ This project presents a GIS-based spatial analysis of risks associated with data
 
 ......................................................................................................................................................................................................................
 
-## Risk Categories
+## Maps
 
-### Water Risk
+### Climate Hazard Risk
+📄 [View Map](maps/Climate Hazard Risk.pdf)
 
-Assessment of water availability and stress.
-
-......................................................................................................................................................................................................................
-
-
-### Climate Risk
-
-Flood exposure and climate hazards.
-
-......................................................................................................................................................................................................................
-
+### Flood Risk
+📄 [View Map](maps/Flood Risk.pdf)
 
 ### Infrastructure Risk
+📄 [View Map](maps/Infrastructure Risks.pdf)
 
-Grid capacity and transmission constraints.
-
-......................................................................................................................................................................................................................
-
+### Operational Class
+📄 [View Map](maps/Operational Class.pdf)
 
 ### Social Risk
+📄 [View Map](maps/Social Risk.pdf)
 
-Community conflict and governance pressure.
+### Water Stress
+📄 [View Map](maps/Water Stress.pdf)
 
-......................................................................................................................................................................................................................
-
-
-### Composite Risk
-
-Combined multi-risk index identifying high-risk areas.
-
-![Composite Risk Map](maps/composite_risk/composite_risk_map.pdf) 
-......................................................................................................................................................................................................................
-
+### Composite Risk (All Combined)
+📄 [View Map](maps/Total Composite Risk Index.pdf)
 
 ## Maps
 
