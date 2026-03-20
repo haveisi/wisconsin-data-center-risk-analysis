@@ -25,7 +25,7 @@ This project presents a GIS-based spatial analysis of risks associated with data
 📄 [View Map](maps/Flood%20Risk.pdf)
 
 ### Infrastructure Risk
-📄 [View Map](maps/Infrastructure Risks.pdf)
+📄 [View Map](maps/Infrastructure%20Risks.pdf)
 
 ### Operational Class
 📄 [View Map](maps/Operational Class.pdf)
